@@ -29,6 +29,15 @@
   <img src="https://skillicons.dev/icons?i=flutter,git,github,linux,vscode,neovim,docker,cmake" />
 </p>
 
+
+# 🔥 Currently Learning
+
+- Advanced Rust
+- Low-Level Systems Programming
+- Linux Internals
+- Networking
+- Secure Software Development
+
 ### Shells
 
 - Bash
@@ -40,7 +49,9 @@
 ## 📌 Currently Working On
 
 - 🦀 Rust CLI Applications
+- ⚙️ Command Line Interfaces (CLI)
 - ⚡ Terminal User Interfaces (TUI)
+- 🖥️ Graphical User Interfaces (GUI)
 - 🔐 Secure & Fast System Utilities
 - 🌐 Open Source Projects
 
@@ -76,11 +87,10 @@
 
 ## 🌐 Connect With Me
 
-- GitHub: **https://github.com/AwaizBTW**
-- Username: **AwaizBTW**
-- Email:awaizbtw@gmail.com
-- Element [Martix]:@awaizbtw:matrix.org
-- Website:tinyurl.com/3tkfe592
+- **GitHub:** https://github.com/AwaizBTW
+- **Email:** awaizbtw@gmail.com
+- **Matrix:** https://matrix.to/#/@awaizbtw:matrix.org
+- **Website:** https://www.tinyurl.com/3tkfe592
 
 ---
 
