@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,50:0078FF,100:7B2FF7&text=Awaiz%20Azam&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
@@ -149,7 +150,7 @@ struct Developer {
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AwaizBTW&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AwaizBTW&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
