@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Rust+Developer;Systems+Programmer;Linux+Power+User;CLI+%7C+TUI+%7C+GUI+Developer;Open+Source+Contributor;Building+Fast+%26+Secure+Software" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AwaizBTW&style=for-the-badge&color=00F7FF)](https://github.com/AwaizBTW)
-[![GitHub followers](https://img.shields.io/github/followers/AwaizBTW?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/AwaizBTW?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/AwaizBTW?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/AwaizBTW)
-
 </div>
 
 ---
@@ -102,25 +98,6 @@ struct Developer {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AwaizBTW&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/AwaizBTW/YOUR_REPO/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 📫 Contact
 
