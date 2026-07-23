@@ -147,10 +147,12 @@ struct Developer {
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AwaizBTW&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+
+<img src="https://raw.githubusercontent.com/AwaizBTW/AwaizBTW/main/github-metrics.svg" alt="GitHub Metrics"/>
+
 </p>
 
 ---
