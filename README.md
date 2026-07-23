@@ -240,7 +240,6 @@ struct Developer {
 </a>
 
 </p>
----
 
 # 💻 Terminal
 
