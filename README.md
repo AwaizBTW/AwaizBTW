@@ -120,6 +120,9 @@ struct Developer {
 <img src="https://skillicons.dev/icons?i=flutter"/>
 
 </div>
+
+---
+
 # 🚀 Current Focus
 
 - 🦀 Advanced Rust Development
@@ -182,25 +185,61 @@ struct Developer {
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-| Platform | Link |
-|-----------|------|
-| 🐙 GitHub | https://github.com/AwaizBTW |
-| 🦊 GitLab | https://gitlab.com/AwaizBTW |
-| 🏔 Codeberg | https://codeberg.org/AwaizBTW |
-| 🐼 Gitee | https://gitee.com/AwaizBTW |
-| 𝕏 X | https://x.com/AwaizBTW |
-| ▶ YouTube | https://www.youtube.com/@AwaizBTW |
-| 📘 Facebook | https://www.facebook.com/profile.php?id=61591983867764 |
-| 📸 Instagram | https://www.instagram.com/AwaizBTW |
-| 🎵 TikTok | https://www.tiktok.com/@AwaizBTW |
-| 💬 Matrix | https://matrix.to/#/@awaizbtw:matrix.org |
-| ✉ Email | awaizbtw@gmail.com |
-| 🌍 Website | https://www.tinyurl.com/3tkfe592 |
+<a href="https://github.com/AwaizBTW">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-</div>
+<a href="https://gitlab.com/AwaizBTW">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab"/>
+</a>
 
+<a href="https://codeberg.org/AwaizBTW">
+<img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg"/>
+</a>
+
+<a href="https://gitee.com/AwaizBTW">
+<img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee"/>
+</a>
+
+<br>
+
+<a href="https://x.com/AwaizBTW">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://www.youtube.com/@AwaizBTW">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61591983867764">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/AwaizBTW">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.tiktok.com/@AwaizBTW">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/>
+</a>
+
+<br>
+
+<a href="https://matrix.to/#/@awaizbtw:matrix.org">
+<img src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix"/>
+</a>
+
+<a href="mailto:awaizbtw@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://tinyurl.com/3tkfe592">
+<img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+</p>
 ---
 
 # 💻 Terminal
