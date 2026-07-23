@@ -95,16 +95,31 @@ struct Developer {
 
 ---
 
-# ⚙ Tech Stack
+# ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,zig,c,cpp,python,java,javascript,dart,flutter,bash,powershell,linux,docker,git,github,gitlab,cmake,neovim,vscode&perline=10"/>
+## 🦀 Languages
+
+<img src="https://skillicons.dev/icons?i=rust,zig,c,cpp,python,java,javascript,dart,bash,powershell"/>
+
+## 🖥 Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch"/>
+
+## 🛠 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,cmake"/>
+
+## 💻 Editors
+
+<img src="https://skillicons.dev/icons?i=neovim,vscode"/>
+
+## 📦 Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
 
 </div>
-
----
-
 # 🚀 Current Focus
 
 - 🦀 Advanced Rust Development
