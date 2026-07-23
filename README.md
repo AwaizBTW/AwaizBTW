@@ -148,21 +148,17 @@ struct Developer {
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AwaizBTW&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AwaizBTW&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/AwaizBTW/AwaizBTW/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+</p>
 
 ---
 
