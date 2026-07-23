@@ -78,16 +78,6 @@ struct Developer {
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaizBTW&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Activity Graph
 
 <p align="center">
