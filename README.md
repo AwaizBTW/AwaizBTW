@@ -1,102 +1,148 @@
-# Hi 👋, I'm Awaiz Azam
+<div align="center">
+
+# ⚡ Awaiz Azam
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Rust+Developer;Systems+Programmer;Linux+Power+User;CLI+%7C+TUI+%7C+GUI+Developer;Open+Source+Contributor;Building+Fast+%26+Secure+Software" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AwaizBTW&style=for-the-badge&color=00F7FF)](https://github.com/AwaizBTW)
+[![GitHub followers](https://img.shields.io/github/followers/AwaizBTW?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/AwaizBTW?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/AwaizBTW?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/AwaizBTW)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```rust
+struct Developer {
+    name: "Awaiz Azam",
+    username: "AwaizBTW",
+    role: "Systems Programmer",
+    languages: [
+        Rust,
+        Zig,
+        C,
+        C++,
+        Python,
+        Mojo,
+        Java,
+        JavaScript,
+        Dart,
+        Bash,
+        Zsh,
+        PowerShell
+    ],
+    os: "Linux ❤️",
+    editor: "Neovim + VS Code",
+    focus: [
+        "CLI Applications",
+        "TUI Applications",
+        "GUI Applications",
+        "Networking",
+        "Cybersecurity",
+        "Open Source"
+    ]
+}
+```
+
+---
+
+# ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Rust+Developer;Systems+Programmer;Open+Source+Contributor;CLI+Tool+Developer;Linux+Enthusiast" />
+
+<img src="https://skillicons.dev/icons?i=rust,zig,c,cpp,python,java,javascript,dart,flutter,bash,powershell,git,github,docker,linux,cmake,neovim,vscode&perline=9"/>
+
 </p>
-
-## 🚀 About Me
-
-- 💻 Systems & Open Source Developer
-- 🦀 Passionate about Rust development
-- ⚡ Building fast, secure, and modern software
-- 🐧 Linux Power User
-- 🔧 CLI & TUI  & GUI Application Developer
-- 🌱 Always learning new technologies
 
 ---
 
-## 🛠 Languages & Technologies
+# 🚀 Current Focus
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,zig,python,java,javascript,dart,bash,powershell" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,git,github,linux,vscode,neovim,docker,cmake" />
-</p>
-
-
-# 🔥 Currently Learning
-
-- Advanced Rust
-- Low-Level Systems Programming
-- Linux Internals
-- Networking
-- Secure Software Development
-
-### Shells
-
-- Bash
-- Zsh
-- PowerShell
+- 🦀 Advanced Rust
+- ⚡ Systems Programming
+- 🖥 Linux Internals
+- 🌐 Networking
+- 🔐 Cybersecurity
+- 📦 CLI / TUI / GUI Applications
+- ❤️ Open Source
 
 ---
 
-## 📌 Currently Working On
-
-- 🦀 Rust CLI Applications
-- ⚙️ Command Line Interfaces (CLI)
-- ⚡ Terminal User Interfaces (TUI)
-- 🖥️ Graphical User Interfaces (GUI)
-- 🔐 Secure & Fast System Utilities
-- 🌐 Open Source Projects
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AwaizBTW&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=AwaizBTW&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AwaizBTW&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=AwaizBTW&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaizBTW&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaizBTW&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AwaizBTW&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaizBTW&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-- **GitHub:** https://github.com/AwaizBTW
-- **Email:** awaizbtw@gmail.com
-- **Matrix:** https://matrix.to/#/@awaizbtw:matrix.org
-- **Website:** https://www.tinyurl.com/3tkfe592
-
----
-
-## ⚡ Fun Fact
-
-> "Fast. Safe. Open Source."
-
----
+# 🏆 GitHub Trophies
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+
+<img src="https://github-profile-trophy.vercel.app/?username=AwaizBTW&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AwaizBTW/YOUR_REPO/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+| Platform | Link |
+|----------|------|
+| GitHub | https://github.com/AwaizBTW |
+| Email | awaizbtw@gmail.com |
+| Matrix | https://matrix.to/#/@awaizbtw:matrix.org |
+| Website | https://www.tinyurl.com/3tkfe592 |
+
+---
+
+# ⚡ Philosophy
+
+> **Fast. Safe. Reliable. Open Source.**
+
+---
+
+<div align="center">
+
+### Thanks for visiting! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=120&section=footer"/>
+
+</div>
